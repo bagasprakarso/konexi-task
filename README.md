@@ -31,16 +31,9 @@ pnpm install
 To start the project, use the following command:
 
 ```sh
-pnpm start
+pnpm dev
 ```
 
-### Running Tests
-
-To run the tests, use the following command:
-
-```sh
-pnpm test
-```
 
 ## Contributing
 
